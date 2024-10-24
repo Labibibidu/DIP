@@ -8,6 +8,7 @@ This assignment allows the use of the OpenCV API: equalizeHist(), but you will o
 The following is a diagram included in the report, using Global HE as an example.
 Bonus: Implementing any Histogram Equalization algorithms mentioned in the course will provide additional credit.
 
+![image](https://github.com/Labibibidu/DIP/blob/main/HW2/hw2_discription_img.PNG)
 
 The report must contain the following(Submit the PDF)：
 1. Screenshots：Display the original image, the image after Histogram equalization
